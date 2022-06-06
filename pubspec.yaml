@@ -16,7 +16,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^2.0.0 #For Styling
   font_awesome_flutter: ^9.0.0 # For Icons
-  jitsi_meet: ^4.0.0 # For Video calls
+#  jitsi_meet: ^4.0.0 # For Video calls
   shared_preferences: ^2.0.5 # For Login Register Information
   data_connection_checker: ^0.3.4 #For Internet Connection Checking
   #Firebase Library
